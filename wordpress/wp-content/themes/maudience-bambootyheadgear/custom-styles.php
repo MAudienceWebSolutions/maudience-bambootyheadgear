@@ -1,7 +1,7 @@
 <?php
 	// custom styling allowing color picking and creating your own version
 	$options = get_option('framemarket_theme_options');
-
+ 
 	$themename = wp_get_theme();
 	$themeinput = $themename . '_styleinput';
 	$maincolor = $themename . '_maincolor';

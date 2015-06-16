@@ -39,5 +39,34 @@ a.mp_cart_direct_checkout_link:hover{background:none repeat scroll 0 0 #006688;b
 #footer-widgets h3,#panel-inner{color:#999999;}
 #footer caption{color:#666666;}
 
+#branding-wrapper {
+	background: url(http://bambootyheadgear.maudience.com/wp-content/uploads/2015/05/background-header-full-color.jpg);
+}
+
+#footer-wrapper {
+	background: url(http://bambootyheadgear.maudience.com/wp-content/uploads/2015/05/background-header-full-color.jpg) !important;
+}
+
+#footer a:hover, .footer-widget, #footer-widgets h3, #panel-inner {
+    color: #ffffff;
+}
+
+#footer-links {
+    border-top: 1px solid #ffffff;
+}
+
+.nav .current a, .nav li:hover > a, .nav li.current_page_item a, .nav li:hover li a {
+    background: none;
+    color: #FB2235;
+}
+
+
+#footer-links a {
+	color: #ffffff !important;
+}
+
+/*Custom CSS*/
+
+
 
 /* 275002-1431018211 */

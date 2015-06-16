@@ -28,6 +28,7 @@ get_header();
 		<?php
 	}
 	?>
+.woocommerce #sidebar{display:none;}
 </div>
 	<?php get_sidebar(); ?>
 <?php get_footer(); ?>
